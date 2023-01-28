@@ -31,8 +31,8 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Gorilla-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
+global.botname = "Mr gorilla" //namabot kalian
+global.ownername = "nourdine" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
